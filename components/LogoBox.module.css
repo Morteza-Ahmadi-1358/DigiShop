@@ -1,0 +1,8 @@
+.outerContainer{
+    padding-right: .5rem;
+}
+.outerContainer:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: .3s;
+}

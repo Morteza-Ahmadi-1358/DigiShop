@@ -1,0 +1,9 @@
+.outerContainer{
+    height: 48px;
+}
+.imageContainer{
+    height: unset !important;
+}
+.imageContainer:hover{
+    cursor: pointer;
+}

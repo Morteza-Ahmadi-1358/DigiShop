@@ -1,0 +1,18 @@
+.outerContainer{
+    width: 200px;
+    margin: .5rem auto;
+    padding: .5rem;
+    text-align: center;
+    color: #fff;
+    background-color: #ff1749;
+    border: 1px solid #ff1749;
+    border-radius: .5rem;
+}
+.labelContainer{
+    font-size: .875rem;
+    font-weight: 700;
+}
+.outerContainer.hover{
+    cursor: pointer;
+    background-color: #cc002c;
+}

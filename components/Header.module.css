@@ -1,0 +1,23 @@
+.outerContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contentContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.rightContainer{
+    width: 75%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.leftContainer{
+    width: 25%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

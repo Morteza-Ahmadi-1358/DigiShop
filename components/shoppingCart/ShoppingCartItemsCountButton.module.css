@@ -1,0 +1,14 @@
+.outerContainer{
+    width: 150px;
+    margin: .5rem auto;
+    padding: .5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #ff1749;
+    border: 1px solid #ff1749;
+    border-radius: .5rem;
+}
+.spnContainer:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.outerContainer{
+    min-height: 82px;
+    background-color: #ff1749;
+    color: #fff;
+    margin-top: 1.75rem;
+}
+.contentContainer{
+    width: 50%;
+    margin: 0px auto;
+    padding: 1rem;
+    text-align: center;
+}
+.titleContainer{
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}

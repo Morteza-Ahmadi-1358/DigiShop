@@ -1,0 +1,29 @@
+.outerContainer{
+    position: relative;
+    width: 70%;
+    margin: .5rem;
+}
+.inputContainer{
+    width: 100%;
+    border: 1px solid #ff1749;
+    border-radius: .5rem;
+    padding: .7rem;
+    outline: none;
+}
+.btnSearchContainer{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    outline: none;
+    border: 1px solid #ff1749;
+    border-top-left-radius: .5rem;
+    border-bottom-left-radius: .5rem;
+    color: #fff;
+    background-color: #ff1749;
+}
+.btnSearchContainer:hover{
+    color: #ff1749;
+    background-color: #fff;
+    cursor: pointer;
+}

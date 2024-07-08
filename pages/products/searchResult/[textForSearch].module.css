@@ -1,0 +1,8 @@
+.outerContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: .5rem;
+    padding: .5rem;
+}

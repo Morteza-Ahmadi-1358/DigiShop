@@ -1,0 +1,8 @@
+.btnContainer{
+    color: #ff1749;
+}
+.btnContainer:hover{
+    cursor: pointer;
+    transform: scale(1.5);
+    transition: .5s;
+}

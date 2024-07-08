@@ -1,0 +1,10 @@
+.outerContainer{
+    width: 50%;
+    margin: 100px auto;
+    color: #ff1749;
+}
+.basketContainer{
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+}
